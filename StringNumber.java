@@ -48,8 +48,6 @@ public class StringNumber {
         }
       }
     } catch (Exception e) {
-      //int counter;
-      // tring finalString;
       System.out.println();
       finalString = finalString + stringInput.charAt(counter);
     }
