@@ -1,5 +1,4 @@
 /*
-* Copyright (c) 2020
 *
 * This program turn whatever number before the 
 * character into extra added characters after it in string.
